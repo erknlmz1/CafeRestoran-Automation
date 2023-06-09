@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminPanel,.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnayemeklerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Masa8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
